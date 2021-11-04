@@ -1,4 +1,7 @@
 # wdio-bs
 
-run command --> npm i
-npx wdio run ./wdio.conf.ts
+run command 
+
+1. npm install
+
+2. npx wdio run ./wdio.conf.ts
